@@ -1,10 +1,10 @@
 import { Routes, Route } from "react-router-dom";
-import Navbar from "./components/layout/Navbar";
-import Home from "./pages/Home";
-import Prediction from "./pages/Prediction";
-import Dashboard from "./pages/Dashboard";
-import About from "./pages/About";
-import NotFound from "./pages/NotFound";
+import Navbar from "./components/layout/navbar";
+import Home from "./pages/home";
+import Prediction from "./pages/prediction";
+import Dashboard from "./pages/dashboard";
+import About from "./pages/about";
+import NotFound from "./pages/notfound";
 
 function App() {
   return (
